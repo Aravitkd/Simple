@@ -22,7 +22,10 @@ header {
     margin: 0 auto;
     padding: 20px;
 }
-
+img{
+    height:150px;
+    width:150px;
+}
 .logo {
     font-size: 36px;
 }
